@@ -1,0 +1,2 @@
+-Dosya 2, dal-1 çalışması
+DalFonksiyon()
